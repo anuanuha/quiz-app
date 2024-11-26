@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anuanuha/quiz-app.git/static/css/main.0b6ee0e3.css",
+    "main.js": "/anuanuha/quiz-app.git/static/js/main.bb9aeec0.js",
+    "index.html": "/anuanuha/quiz-app.git/index.html",
+    "main.0b6ee0e3.css.map": "/anuanuha/quiz-app.git/static/css/main.0b6ee0e3.css.map",
+    "main.bb9aeec0.js.map": "/anuanuha/quiz-app.git/static/js/main.bb9aeec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b6ee0e3.css",
+    "static/js/main.bb9aeec0.js"
+  ]
+}
