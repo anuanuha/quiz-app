@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anuanuha/quiz-app.git/static/css/main.0b6ee0e3.css",
-    "main.js": "/anuanuha/quiz-app.git/static/js/main.bb9aeec0.js",
-    "index.html": "/anuanuha/quiz-app.git/index.html",
-    "main.0b6ee0e3.css.map": "/anuanuha/quiz-app.git/static/css/main.0b6ee0e3.css.map",
-    "main.bb9aeec0.js.map": "/anuanuha/quiz-app.git/static/js/main.bb9aeec0.js.map"
+    "main.css": "/quiz-app/static/css/main.0b6ee0e3.css",
+    "main.js": "/quiz-app/static/js/main.bb9aeec0.js",
+    "index.html": "/quiz-app/index.html",
+    "main.0b6ee0e3.css.map": "/quiz-app/static/css/main.0b6ee0e3.css.map",
+    "main.bb9aeec0.js.map": "/quiz-app/static/js/main.bb9aeec0.js.map"
   },
   "entrypoints": [
     "static/css/main.0b6ee0e3.css",
